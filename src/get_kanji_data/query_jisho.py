@@ -1,6 +1,7 @@
 import time
 import sys
 import requests
+import yaml
 from requests.utils import quote
 from bs4 import BeautifulSoup
 
@@ -27,5 +28,13 @@ def fetch_kanji_props(term):
 if len(sys.argv) > 1:
     lexicon_src = sys.argv[1]
     input_f = open(lexicon_src, "r", encoding="utf-8")
+    kanji_data = dict()
+
     for line in input_f:
         query_term = line.rstrip()
+        props = fetch_kanji_props(query_term)
+        kanji_data[query_term] = {"stroke_count": props[1], "meanings": props[0], "kun_yomi": props[2], "on_yomi": props[3]}
+        time.sleep(1)
+    with open("output.yaml", 'w', encoding="utf-8") as fp:
+        yaml.dump(kanji_data, stream=fp, allow_unicode=True)
+    fp.close()
