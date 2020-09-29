@@ -7,8 +7,7 @@ from bs4 import BeautifulSoup
 dict_root = "https://jisho.org/search/"
 
 def fetch_kanji_props(term):
-    term_stripped = term.rstrip()
-    query_uri = dict_root + quote(term_stripped) + "%20%23kanji"
+    query_uri = dict_root + quote(term) + "%20%23kanji"
     response = requests.get(query_uri)
     soup = BeautifulSoup(response.content, 'html.parser')
     stroke_count = soup.find(class_="kanji-details__stroke_count").find('strong').text
@@ -29,5 +28,4 @@ if len(sys.argv) > 1:
     lexicon_src = sys.argv[1]
     input_f = open(lexicon_src, "r", encoding="utf-8")
     for line in input_f:
-        props = fetch_kanji_props(line)
-        time.sleep(1)
+        query_term = line.rstrip()
