@@ -30,5 +30,4 @@ if len(sys.argv) > 1:
     input_f = open(lexicon_src, "r", encoding="utf-8")
     for line in input_f:
         props = fetch_kanji_props(line)
-
         time.sleep(1)
