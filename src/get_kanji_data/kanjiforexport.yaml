@@ -1,0 +1,1507 @@
+kanji_properties:
+  日:
+    stroke_count: '4'
+    meanings:
+    - day
+    - sun
+    - Japan
+    - counter for days
+    kun_yomi:
+    - ひ
+    - -び
+    - -か
+    on_yomi:
+    - ニチ
+    - ジツ
+  一:
+    stroke_count: '1'
+    meanings:
+    - one
+    - one radical (no.1)
+    kun_yomi:
+    - ひと-
+    - ひと.つ
+    on_yomi:
+    - イチ
+    - イツ
+  国:
+    stroke_count: '8'
+    meanings:
+    - country
+    kun_yomi:
+    - くに
+    on_yomi:
+    - コク
+  会:
+    stroke_count: '6'
+    meanings:
+    - meeting
+    - meet
+    - party
+    - association
+    - interview
+    - join
+    kun_yomi:
+    - あ.う
+    - あ.わせる
+    - あつ.まる
+    on_yomi:
+    - カイ
+    - エ
+  人:
+    stroke_count: '2'
+    meanings:
+    - person
+    kun_yomi:
+    - ひと
+    - -り
+    - -と
+    on_yomi:
+    - ジン
+    - ニン
+  年:
+    stroke_count: '6'
+    meanings:
+    - year
+    - counter for years
+    kun_yomi:
+    - とし
+    on_yomi:
+    - ネン
+  大:
+    stroke_count: '3'
+    meanings:
+    - large
+    - big
+    kun_yomi:
+    - おお-
+    - おお.きい
+    - -おお.いに
+    on_yomi:
+    - ダイ
+    - タイ
+  十:
+    stroke_count: '2'
+    meanings:
+    - ten
+    kun_yomi:
+    - とお
+    - と
+    - そ
+    on_yomi:
+    - ジュウ
+    - ジッ
+    - ジュッ
+  二:
+    stroke_count: '2'
+    meanings:
+    - two
+    - two radical (no. 7)
+    kun_yomi:
+    - ふた
+    - ふた.つ
+    - ふたたび
+    on_yomi:
+    - ニ
+    - ジ
+  本:
+    stroke_count: '5'
+    meanings:
+    - book
+    - present
+    - main
+    - origin
+    - 'true'
+    - real
+    - counter for long cylindrical things
+    kun_yomi:
+    - もと
+    on_yomi:
+    - ホン
+  中:
+    stroke_count: '4'
+    meanings:
+    - in
+    - inside
+    - middle
+    - mean
+    - center
+    kun_yomi:
+    - なか
+    - うち
+    - あた.る
+    on_yomi:
+    - チュウ
+  長:
+    stroke_count: '8'
+    meanings:
+    - long
+    - leader
+    - superior
+    - senior
+    kun_yomi:
+    - なが.い
+    - おさ
+    on_yomi:
+    - チョウ
+  出:
+    stroke_count: '5'
+    meanings:
+    - exit
+    - leave
+    - go out
+    - come out
+    - put out
+    - protrude
+    kun_yomi:
+    - で.る
+    - -で
+    - だ.す
+    - -だ.す
+    - い.でる
+    - い.だす
+    on_yomi:
+    - シュツ
+    - スイ
+  三:
+    stroke_count: '3'
+    meanings:
+    - three
+    kun_yomi:
+    - み
+    - み.つ
+    - みっ.つ
+    on_yomi:
+    - サン
+    - ゾウ
+  同:
+    stroke_count: '6'
+    meanings:
+    - same
+    - agree
+    - equal
+    kun_yomi:
+    - おな.じ
+    on_yomi:
+    - ドウ
+  時:
+    stroke_count: '10'
+    meanings:
+    - time
+    - hour
+    kun_yomi:
+    - とき
+    - -どき
+    on_yomi:
+    - ジ
+  政:
+    stroke_count: '9'
+    meanings:
+    - politics
+    - government
+    kun_yomi:
+    - まつりごと
+    - まん
+    on_yomi:
+    - セイ
+    - ショウ
+  事:
+    stroke_count: '8'
+    meanings:
+    - matter
+    - thing
+    - fact
+    - business
+    - reason
+    - possibly
+    kun_yomi:
+    - こと
+    - つか.う
+    - つか.える
+    on_yomi:
+    - ジ
+    - ズ
+  自:
+    stroke_count: '6'
+    meanings:
+    - oneself
+    kun_yomi:
+    - みずか.ら
+    - おの.ずから
+    - おの.ずと
+    on_yomi:
+    - ジ
+    - シ
+  行:
+    stroke_count: '6'
+    meanings:
+    - going
+    - journey
+    - carry out
+    - conduct
+    - act
+    - line
+    - row
+    - bank
+    kun_yomi:
+    - い.く
+    - ゆ.く
+    - -ゆ.き
+    - -ゆき
+    - -い.き
+    - -いき
+    - おこな.う
+    - おこ.なう
+    on_yomi:
+    - コウ
+    - ギョウ
+    - アン
+  社:
+    stroke_count: '7'
+    meanings:
+    - company
+    - firm
+    - office
+    - association
+    - shrine
+    kun_yomi:
+    - やしろ
+    on_yomi:
+    - シャ
+  見:
+    stroke_count: '7'
+    meanings:
+    - see
+    - hopes
+    - chances
+    - idea
+    - opinion
+    - look at
+    - visible
+    kun_yomi:
+    - み.る
+    - み.える
+    - み.せる
+    on_yomi:
+    - ケン
+  月:
+    stroke_count: '4'
+    meanings:
+    - month
+    - moon
+    kun_yomi:
+    - つき
+    on_yomi:
+    - ゲツ
+    - ガツ
+  分:
+    stroke_count: '4'
+    meanings:
+    - part
+    - minute of time
+    - segment
+    - share
+    - degree
+    - one's lot
+    - duty
+    - understand
+    - know
+    - rate
+    - 1%
+    - chances
+    - shaku/100
+    kun_yomi:
+    - わ.ける
+    - わ.け
+    - わ.かれる
+    - わ.かる
+    - わ.かつ
+    on_yomi:
+    - ブン
+    - フン
+    - ブ
+  議:
+    stroke_count: '20'
+    meanings:
+    - deliberation
+    - consultation
+    - debate
+    - consideration
+    kun_yomi: No kun-yomi
+    on_yomi:
+    - ギ
+  後:
+    stroke_count: '9'
+    meanings:
+    - behind
+    - back
+    - later
+    kun_yomi:
+    - のち
+    - うし.ろ
+    - うしろ
+    - あと
+    - おく.れる
+    on_yomi:
+    - ゴ
+    - コウ
+  前:
+    stroke_count: '9'
+    meanings:
+    - in front
+    - before
+    kun_yomi:
+    - まえ
+    - -まえ
+    on_yomi:
+    - ゼン
+  民:
+    stroke_count: '5'
+    meanings:
+    - people
+    - nation
+    - subjects
+    kun_yomi:
+    - たみ
+    on_yomi:
+    - ミン
+  生:
+    stroke_count: '5'
+    meanings:
+    - life
+    - genuine
+    - birth
+    kun_yomi:
+    - い.きる
+    - い.かす
+    - い.ける
+    - う.まれる
+    - うま.れる
+    - う.まれ
+    - うまれ
+    - う.む
+    - お.う
+    - は.える
+    - は.やす
+    - き
+    - なま
+    - なま-
+    - な.る
+    - な.す
+    - む.す
+    - -う
+    on_yomi:
+    - セイ
+    - ショウ
+  連:
+    stroke_count: '10'
+    meanings:
+    - take along
+    - lead
+    - join
+    - connect
+    - party
+    - gang
+    - clique
+    kun_yomi:
+    - つら.なる
+    - つら.ねる
+    - つ.れる
+    - -づ.れ
+    on_yomi:
+    - レン
+  五:
+    stroke_count: '4'
+    meanings:
+    - five
+    kun_yomi:
+    - いつ
+    - いつ.つ
+    on_yomi:
+    - ゴ
+  発:
+    stroke_count: '9'
+    meanings:
+    - departure
+    - discharge
+    - publish
+    - emit
+    - start from
+    - disclose
+    - counter for gunshots
+    kun_yomi:
+    - た.つ
+    - あば.く
+    - おこ.る
+    - つか.わす
+    - はな.つ
+    on_yomi:
+    - ハツ
+    - ホツ
+  間:
+    stroke_count: '12'
+    meanings:
+    - interval
+    - space
+    kun_yomi:
+    - あいだ
+    - ま
+    - あい
+    on_yomi:
+    - カン
+    - ケン
+  対:
+    stroke_count: '7'
+    meanings:
+    - vis-a-vis
+    - opposite
+    - even
+    - equal
+    - versus
+    - anti-
+    - compare
+    kun_yomi:
+    - あいて
+    - こた.える
+    - そろ.い
+    - つれあ.い
+    - なら.ぶ
+    - むか.う
+    on_yomi:
+    - タイ
+    - ツイ
+  上:
+    stroke_count: '3'
+    meanings:
+    - above
+    - up
+    kun_yomi:
+    - うえ
+    - -うえ
+    - うわ-
+    - かみ
+    - あ.げる
+    - -あ.げる
+    - あ.がる
+    - -あ.がる
+    - あ.がり
+    - -あ.がり
+    - のぼ.る
+    - のぼ.り
+    - のぼ.せる
+    - のぼ.す
+    - たてまつ.る
+    on_yomi:
+    - ジョウ
+    - ショウ
+    - シャン
+  部:
+    stroke_count: '11'
+    meanings:
+    - section
+    - bureau
+    - dept
+    - class
+    - copy
+    - part
+    - portion
+    - counter for copies of a newspaper or magazine
+    kun_yomi:
+    - -べ
+    on_yomi:
+    - ブ
+  東:
+    stroke_count: '8'
+    meanings:
+    - east
+    kun_yomi:
+    - ひがし
+    on_yomi:
+    - トウ
+  者:
+    stroke_count: '8'
+    meanings:
+    - someone
+    - person
+    kun_yomi:
+    - もの
+    on_yomi:
+    - シャ
+  党:
+    stroke_count: '10'
+    meanings:
+    - party
+    - faction
+    - clique
+    kun_yomi:
+    - なかま
+    - むら
+    on_yomi:
+    - トウ
+  地:
+    stroke_count: '6'
+    meanings:
+    - ground
+    - earth
+    kun_yomi: No kun-yomi
+    on_yomi:
+    - チ
+    - ジ
+  合:
+    stroke_count: '6'
+    meanings:
+    - fit
+    - suit
+    - join
+    - '0.1'
+    kun_yomi:
+    - あ.う
+    - -あ.う
+    - あ.い
+    - あい-
+    - -あ.い
+    - -あい
+    - あ.わす
+    - あ.わせる
+    - -あ.わせる
+    on_yomi:
+    - ゴウ
+    - ガッ
+    - カッ
+  市:
+    stroke_count: '5'
+    meanings:
+    - market
+    - city
+    - town
+    kun_yomi:
+    - いち
+    on_yomi:
+    - シ
+  業:
+    stroke_count: '13'
+    meanings:
+    - business
+    - vocation
+    - arts
+    - performance
+    kun_yomi:
+    - わざ
+    on_yomi:
+    - ギョウ
+    - ゴウ
+  内:
+    stroke_count: '4'
+    meanings:
+    - inside
+    - within
+    - between
+    - among
+    - house
+    - home
+    kun_yomi:
+    - うち
+    on_yomi:
+    - ナイ
+    - ダイ
+  相:
+    stroke_count: '9'
+    meanings:
+    - inter-
+    - mutual
+    - together
+    - each other
+    - minister of state
+    - councillor
+    - aspect
+    - phase
+    - physiognomy
+    kun_yomi:
+    - あい-
+    on_yomi:
+    - ソウ
+    - ショウ
+  方:
+    stroke_count: '4'
+    meanings:
+    - direction
+    - person
+    - alternative
+    kun_yomi:
+    - かた
+    - -かた
+    - -がた
+    on_yomi:
+    - ホウ
+  四:
+    stroke_count: '5'
+    meanings:
+    - four
+    kun_yomi:
+    - よ
+    - よ.つ
+    - よっ.つ
+    - よん
+    on_yomi:
+    - シ
+  定:
+    stroke_count: '8'
+    meanings:
+    - determine
+    - fix
+    - establish
+    - decide
+    kun_yomi:
+    - さだ.める
+    - さだ.まる
+    - さだ.か
+    on_yomi:
+    - テイ
+    - ジョウ
+  今:
+    stroke_count: '4'
+    meanings:
+    - now
+    kun_yomi:
+    - いま
+    on_yomi:
+    - コン
+    - キン
+  回:
+    stroke_count: '6'
+    meanings:
+    - -times
+    - round
+    - game
+    - revolve
+    - counter for occurrences
+    kun_yomi:
+    - まわ.る
+    - -まわ.る
+    - -まわ.り
+    - まわ.す
+    - -まわ.す
+    - まわ.し-
+    - -まわ.し
+    - もとお.る
+    - か.える
+    on_yomi:
+    - カイ
+    - エ
+  新:
+    stroke_count: '13'
+    meanings:
+    - new
+    kun_yomi:
+    - あたら.しい
+    - あら.た
+    - あら-
+    - にい-
+    on_yomi:
+    - シン
+  場:
+    stroke_count: '12'
+    meanings:
+    - location
+    - place
+    kun_yomi:
+    - ば
+    on_yomi:
+    - ジョウ
+    - チョウ
+  金:
+    stroke_count: '8'
+    meanings:
+    - gold
+    kun_yomi:
+    - かね
+    - かな-
+    - -がね
+    on_yomi:
+    - キン
+    - コン
+    - ゴン
+  員:
+    stroke_count: '10'
+    meanings:
+    - employee
+    - member
+    - number
+    - the one in charge
+    kun_yomi: No kun-yomi
+    on_yomi:
+    - イン
+  九:
+    stroke_count: '2'
+    meanings:
+    - nine
+    kun_yomi:
+    - ここの
+    - ここの.つ
+    on_yomi:
+    - キュウ
+    - ク
+  入:
+    stroke_count: '2'
+    meanings:
+    - enter
+    - insert
+    kun_yomi:
+    - い.る
+    - -い.る
+    - -い.り
+    - い.れる
+    - -い.れ
+    - はい.る
+    on_yomi:
+    - ニュウ
+    - ジュ
+  選:
+    stroke_count: '15'
+    meanings:
+    - elect
+    - select
+    - choose
+    - prefer
+    kun_yomi:
+    - えら.ぶ
+    - え.る
+    - よ.る
+    on_yomi:
+    - セン
+  立:
+    stroke_count: '5'
+    meanings:
+    - stand up
+    - rise
+    - set up
+    - erect
+    kun_yomi:
+    - た.つ
+    - -た.つ
+    - た.ち-
+    - た.てる
+    - -た.てる
+    - た.て-
+    - たて-
+    - -た.て
+    - -だ.て
+    - -だ.てる
+    on_yomi:
+    - リツ
+    - リュウ
+    - リットル
+  開:
+    stroke_count: '12'
+    meanings:
+    - open
+    - unfold
+    - unseal
+    kun_yomi:
+    - ひら.く
+    - ひら.き
+    - -びら.き
+    - ひら.ける
+    - あ.く
+    - あ.ける
+    on_yomi:
+    - カイ
+  手:
+    stroke_count: '4'
+    meanings:
+    - hand
+    kun_yomi:
+    - て
+    - て-
+    - -て
+    - た-
+    on_yomi:
+    - シュ
+    - ズ
+  米:
+    stroke_count: '6'
+    meanings:
+    - rice
+    - USA
+    - metre
+    kun_yomi:
+    - こめ
+    - よね
+    on_yomi:
+    - ベイ
+    - マイ
+    - メエトル
+  力:
+    stroke_count: '2'
+    meanings:
+    - power
+    - strength
+    - strong
+    - strain
+    - bear up
+    - exert
+    kun_yomi:
+    - ちから
+    on_yomi:
+    - リョク
+    - リキ
+    - リイ
+  学:
+    stroke_count: '8'
+    meanings:
+    - study
+    - learning
+    - science
+    kun_yomi:
+    - まな.ぶ
+    on_yomi:
+    - ガク
+  問:
+    stroke_count: '11'
+    meanings:
+    - question
+    - ask
+    - problem
+    kun_yomi:
+    - と.う
+    - と.い
+    - とん
+    on_yomi:
+    - モン
+  高:
+    stroke_count: '10'
+    meanings:
+    - tall
+    - high
+    - expensive
+    kun_yomi:
+    - たか.い
+    - たか
+    - -だか
+    - たか.まる
+    - たか.める
+    on_yomi:
+    - コウ
+  代:
+    stroke_count: '5'
+    meanings:
+    - substitute
+    - change
+    - convert
+    - replace
+    - period
+    - age
+    - counter for decades of ages
+    - eras
+    - etc.
+    - generation
+    - charge
+    - rate
+    - fee
+    kun_yomi:
+    - か.わる
+    - かわ.る
+    - かわ.り
+    - か.わり
+    - -がわ.り
+    - -が.わり
+    - か.える
+    - よ
+    - しろ
+    on_yomi:
+    - ダイ
+    - タイ
+  明:
+    stroke_count: '8'
+    meanings:
+    - bright
+    - light
+    kun_yomi:
+    - あ.かり
+    - あか.るい
+    - あか.るむ
+    - あか.らむ
+    - あき.らか
+    - あ.ける
+    - -あ.け
+    - あ.く
+    - あ.くる
+    - あ.かす
+    on_yomi:
+    - メイ
+    - ミョウ
+    - ミン
+  実:
+    stroke_count: '8'
+    meanings:
+    - reality
+    - truth
+    - seed
+    - fruit
+    - nut
+    kun_yomi:
+    - み
+    - みの.る
+    - まこと
+    - みの
+    - みち.る
+    on_yomi:
+    - ジツ
+    - シツ
+  円:
+    stroke_count: '4'
+    meanings:
+    - circle
+    - yen
+    - round
+    kun_yomi:
+    - まる.い
+    - まる
+    - まど
+    - まど.か
+    - まろ.やか
+    on_yomi:
+    - エン
+  関:
+    stroke_count: '14'
+    meanings:
+    - connection
+    - barrier
+    - gateway
+    - involve
+    - concerning
+    kun_yomi:
+    - せき
+    - -ぜき
+    - かか.わる
+    - からくり
+    - かんぬき
+    on_yomi:
+    - カン
+  決:
+    stroke_count: '7'
+    meanings:
+    - decide
+    - fix
+    - agree upon
+    - appoint
+    kun_yomi:
+    - き.める
+    - -ぎ.め
+    - き.まる
+    - さ.く
+    on_yomi:
+    - ケツ
+  子:
+    stroke_count: '3'
+    meanings:
+    - child
+    - sign of the rat
+    - 11PM-1AM
+    - first sign of Chinese zodiac
+    kun_yomi:
+    - こ
+    - -こ
+    - ね
+    on_yomi:
+    - シ
+    - ス
+    - ツ
+  動:
+    stroke_count: '11'
+    meanings:
+    - move
+    - motion
+    - change
+    - confusion
+    - shift
+    - shake
+    kun_yomi:
+    - うご.く
+    - うご.かす
+    on_yomi:
+    - ドウ
+  京:
+    stroke_count: '8'
+    meanings:
+    - capital
+    - 10**16
+    kun_yomi:
+    - みやこ
+    on_yomi:
+    - キョウ
+    - ケイ
+    - キン
+  全:
+    stroke_count: '6'
+    meanings:
+    - whole
+    - entire
+    - all
+    - complete
+    - fulfill
+    kun_yomi:
+    - まった.く
+    - すべ.て
+    on_yomi:
+    - ゼン
+  目:
+    stroke_count: '5'
+    meanings:
+    - eye
+    - class
+    - look
+    - insight
+    - experience
+    - care
+    - favor
+    kun_yomi:
+    - め
+    - -め
+    - ま-
+    on_yomi:
+    - モク
+    - ボク
+  表:
+    stroke_count: '8'
+    meanings:
+    - surface
+    - table
+    - chart
+    - diagram
+    kun_yomi:
+    - おもて
+    - -おもて
+    - あらわ.す
+    - あらわ.れる
+    - あら.わす
+    on_yomi:
+    - ヒョウ
+  戦:
+    stroke_count: '13'
+    meanings:
+    - war
+    - battle
+    - match
+    kun_yomi:
+    - いくさ
+    - たたか.う
+    - おのの.く
+    - そよ.ぐ
+    - わなな.く
+    on_yomi:
+    - セン
+  経:
+    stroke_count: '11'
+    meanings:
+    - sutra
+    - longitude
+    - pass thru
+    - expire
+    - warp
+    kun_yomi:
+    - へ.る
+    - た.つ
+    - たていと
+    - はか.る
+    - のり
+    on_yomi:
+    - ケイ
+    - キョウ
+    - キン
+  通:
+    stroke_count: '10'
+    meanings:
+    - traffic
+    - pass through
+    - avenue
+    - commute
+    - counter for letters
+    - notes
+    - documents
+    - etc.
+    kun_yomi:
+    - とお.る
+    - とお.り
+    - -とお.り
+    - -どお.り
+    - とお.す
+    - とお.し
+    - -どお.し
+    - かよ.う
+    on_yomi:
+    - ツウ
+    - ツ
+  外:
+    stroke_count: '5'
+    meanings:
+    - outside
+    kun_yomi:
+    - そと
+    - ほか
+    - はず.す
+    - はず.れる
+    - と-
+    on_yomi:
+    - ガイ
+    - ゲ
+  最:
+    stroke_count: '12'
+    meanings:
+    - utmost
+    - most
+    - extreme
+    kun_yomi:
+    - もっと.も
+    - つま
+    on_yomi:
+    - サイ
+    - シュ
+  言:
+    stroke_count: '7'
+    meanings:
+    - say
+    - word
+    kun_yomi:
+    - い.う
+    - こと
+    on_yomi:
+    - ゲン
+    - ゴン
+  氏:
+    stroke_count: '4'
+    meanings:
+    - family name
+    - surname
+    - clan
+    kun_yomi:
+    - うじ
+    - -うじ
+    on_yomi:
+    - シ
+  現:
+    stroke_count: '11'
+    meanings:
+    - present
+    - existing
+    - actual
+    kun_yomi:
+    - あらわ.れる
+    - あらわ.す
+    - うつつ
+    - うつ.つ
+    on_yomi:
+    - ゲン
+  理:
+    stroke_count: '11'
+    meanings:
+    - logic
+    - arrangement
+    - reason
+    - justice
+    - truth
+    kun_yomi:
+    - ことわり
+    on_yomi:
+    - リ
+  調:
+    stroke_count: '15'
+    meanings:
+    - tune
+    - tone
+    - meter
+    - key (music)
+    - writing style
+    - prepare
+    - exorcise
+    - investigate
+    - harmonize
+    - mediate
+    kun_yomi:
+    - しら.べる
+    - しら.べ
+    - ととの.う
+    - ととの.える
+    on_yomi:
+    - チョウ
+  体:
+    stroke_count: '7'
+    meanings:
+    - body
+    - substance
+    - object
+    - reality
+    - counter for images
+    kun_yomi:
+    - からだ
+    - かたち
+    on_yomi:
+    - タイ
+    - テイ
+  化:
+    stroke_count: '4'
+    meanings:
+    - change
+    - take the form of
+    - influence
+    - enchant
+    - delude
+    - -ization
+    kun_yomi:
+    - ば.ける
+    - ば.かす
+    - ふ.ける
+    - け.する
+    on_yomi:
+    - カ
+    - ケ
+  田:
+    stroke_count: '5'
+    meanings:
+    - rice field
+    - rice paddy
+    kun_yomi:
+    - た
+    on_yomi:
+    - デン
+  当:
+    stroke_count: '6'
+    meanings:
+    - hit
+    - right
+    - appropriate
+    - himself
+    kun_yomi:
+    - あ.たる
+    - あ.たり
+    - あ.てる
+    - あ.て
+    - まさ.に
+    - まさ.にべし
+    on_yomi:
+    - トウ
+  八:
+    stroke_count: '2'
+    meanings:
+    - eight
+    - eight radical (no. 12)
+    kun_yomi:
+    - や
+    - や.つ
+    - やっ.つ
+    - よう
+    on_yomi:
+    - ハチ
+  六:
+    stroke_count: '4'
+    meanings:
+    - six
+    kun_yomi:
+    - む
+    - む.つ
+    - むっ.つ
+    - むい
+    on_yomi:
+    - ロク
+    - リク
+  約:
+    stroke_count: '9'
+    meanings:
+    - promise
+    - approximately
+    - shrink
+    kun_yomi:
+    - つづ.まる
+    - つづ.める
+    - つづま.やか
+    on_yomi:
+    - ヤク
+  主:
+    stroke_count: '5'
+    meanings:
+    - lord
+    - chief
+    - master
+    - main thing
+    - principal
+    kun_yomi:
+    - ぬし
+    - おも
+    - あるじ
+    on_yomi:
+    - シュ
+    - ス
+    - シュウ
+  題:
+    stroke_count: '18'
+    meanings:
+    - topic
+    - subject
+    kun_yomi: No kun-yomi
+    on_yomi:
+    - ダイ
+  下:
+    stroke_count: '3'
+    meanings:
+    - below
+    - down
+    - descend
+    - give
+    - low
+    - inferior
+    kun_yomi:
+    - した
+    - しも
+    - もと
+    - さ.げる
+    - さ.がる
+    - くだ.る
+    - くだ.り
+    - くだ.す
+    - -くだ.す
+    - くだ.さる
+    - お.ろす
+    - お.りる
+    on_yomi:
+    - カ
+    - ゲ
+  首:
+    stroke_count: '9'
+    meanings:
+    - neck
+    - counter for songs and poems
+    kun_yomi:
+    - くび
+    on_yomi:
+    - シュ
+  意:
+    stroke_count: '13'
+    meanings:
+    - idea
+    - mind
+    - heart
+    - taste
+    - thought
+    - desire
+    - care
+    - liking
+    kun_yomi: No kun-yomi
+    on_yomi:
+    - イ
+  法:
+    stroke_count: '8'
+    meanings:
+    - method
+    - law
+    - rule
+    - principle
+    - model
+    - system
+    kun_yomi:
+    - のり
+    on_yomi:
+    - ホウ
+    - ハッ
+    - ホッ
+    - フラン
+kanji_in_order:
+- 日
+- 一
+- 国
+- 会
+- 人
+- 年
+- 大
+- 十
+- 二
+- 本
+- 中
+- 長
+- 出
+- 三
+- 同
+- 時
+- 政
+- 事
+- 自
+- 行
+- 社
+- 見
+- 月
+- 分
+- 議
+- 後
+- 前
+- 民
+- 生
+- 連
+- 五
+- 発
+- 間
+- 対
+- 上
+- 部
+- 東
+- 者
+- 党
+- 地
+- 合
+- 市
+- 業
+- 内
+- 相
+- 方
+- 四
+- 定
+- 今
+- 回
+- 新
+- 場
+- 金
+- 員
+- 九
+- 入
+- 選
+- 立
+- 開
+- 手
+- 米
+- 力
+- 学
+- 問
+- 高
+- 代
+- 明
+- 実
+- 円
+- 関
+- 決
+- 子
+- 動
+- 京
+- 全
+- 目
+- 表
+- 戦
+- 経
+- 通
+- 外
+- 最
+- 言
+- 氏
+- 現
+- 理
+- 調
+- 体
+- 化
+- 田
+- 当
+- 八
+- 六
+- 約
+- 主
+- 題
+- 下
+- 首
+- 意
+- 法
