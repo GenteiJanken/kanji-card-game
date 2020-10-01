@@ -33,12 +33,18 @@ if len(sys.argv) > 1:
     lexicon_src = sys.argv[1]
     input_f = open(lexicon_src, "r", encoding="utf-8")
     kanji_data = dict()
-
+    kanji_in_order = []
     for line in input_f:
         query_term = line.rstrip()
         props = fetch_kanji_props(query_term)
         kanji_data[query_term] = {"stroke_count": props[1], "meanings": props[0], "kun_yomi": props[2], "on_yomi": props[3]}
+        kanji_in_order.append(query_term)
         time.sleep(1)
+
+    final_dict = {
+        "kanji_properties": kanji_data,
+        "kanji_in_order": kanji_in_order
+    }
     with open("output.yaml", 'w', encoding="utf-8") as fp:
-        yaml.dump(kanji_data, stream=fp, allow_unicode=True)
+        yaml.dump(final_dict, stream=fp, allow_unicode=True, sort_keys=False)
     fp.close()
