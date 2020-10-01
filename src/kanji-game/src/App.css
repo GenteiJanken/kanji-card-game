@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.game-page-heading {
+  margin: 0.25em 0em;
+}
+
+.game-start-button {
+  font-size: 1.2em;
+  margin: 0.5em 0em;
+  width: 200px;
+}
+
+.GameScreen {
+  background-color: #f3e2c4;
+  width: 90vw;
+  height: 50.625vw;
+  max-width: 142.22vh;
+  max-height: 80vh;
+  margin: auto;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.property-heading {
+  font-weight: bold;
+  font-size: 1em;
+  position: absolute;
+  width: 20%;
+  text-align: center;
+}
+
+.card-slot {
+  width: 20%;
+  height: 20%;
+  border: 2px dashed black;
+  border-radius: 5px;
+  position: absolute;
+}
+
+.challenge-kanji {
+  width: 20%;
+  height: 20%;
+  font-size: 3em;
+  background-color: white;
+  border-radius: 5px;
+  position: absolute;
+}
