@@ -12,8 +12,12 @@ def fetch_kanji_props(term):
     response = requests.get(query_uri)
     soup = BeautifulSoup(response.content, 'html.parser')
     stroke_count = soup.find(class_="kanji-details__stroke_count").find('strong').text
-    kun_yomi = soup.find(class_="dictionary_entry kun_yomi").findAll('a')
-    kun_yomi = list(map(lambda x: x.text.strip(), kun_yomi))
+    kun_yomi = soup.find(class_="dictionary_entry kun_yomi")
+    if kun_yomi:
+        children = kun_yomi.findAll('a')
+        kun_yomi = list(map(lambda x: x.text.strip(), children))
+    else:
+        kun_yomi = "No kun-yomi"
     # on_yomi class is used non-semantically, need to select one with readings
     on_yomi = soup.findAll(class_="dictionary_entry on_yomi")
     true_on_yomi = None
